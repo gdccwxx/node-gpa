@@ -1,0 +1,14 @@
+{
+  "name": "gpa",
+  "version": "0.0.1",
+  "author": "gdccwxx",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.0.0-alpha.7",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.0.1",
+    "koa-static": "^2.0.0",
+    "koa-gzip": "^0.1.0",
+    "mongoose": "^4.6.8"
+  }
+}
