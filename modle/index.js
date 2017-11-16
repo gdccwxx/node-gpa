@@ -14,4 +14,4 @@ mongoose.connect(config.url, {
 })
 
 
-exports.grade = require('./lib/grade');
+exports.course = require('./lib/grade');

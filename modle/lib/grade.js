@@ -18,4 +18,4 @@ const grade = new mongoose.Schema({
   CJXS: { type: String },
 })
 grade.index({ XH: 1 }, { unique: true })
-module.exports = mongoose.model('grade', grade);
+module.exports = mongoose.model('course', grade);
