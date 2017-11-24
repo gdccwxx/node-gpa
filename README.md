@@ -1,0 +1,7 @@
+# node-gpa
+数据格式
+{ "_id" : ObjectId("5a07f119e81208d211d40a73"), "XH" : "5000112077", "XM" : "兰易", "KCBH" : "J5040R0007", "KCMC" : "经济学基础", "XQMC" : " 2012-2013-2", "ZCJ" : 65, "ZXS" : 48, "XF" : 3, "BJMC" : "广播电视新闻学121班", "KCXZMC" : "学科基础课", "KCLBMC" : "必修", "KSXZMC" : "重修一", "DQSZJ" : "2012", "DJFSMC" : "分数", "CJXS" : "65" }
+{ "_id" : ObjectId("5a07f119e81208d211d40a74"), "XH" : "02051042", "XM" : "刘友来", "KCBH" : "T51030001", "KCMC" : "大学英语", "XQMC" : "2002-2003-1", "ZCJ" : 64, "ZXS" : 75, "XF" : 4, "BJMC" : "新闻032班", "KCXZMC" : "通识课（Ⅰ类）", "KCLBMC" : "必修", "KSXZMC" : "正常考试", "DQSZJ" : null, "DJFSMC" : "分数", "CJXS" : "64" }
+{ "_id" : ObjectId("5a07f119e81208d211d40a76"), "XH" : "02151042", "XM" : "张伟强", "KCBH" : "T51030001", "KCMC" : "大学英语", "XQMC" : "2002-2003-1", "ZCJ" : 60, "ZXS" : 32, "XF" : 4, "BJMC" : "给排水031班", "KCXZMC" : "通识课（Ⅰ类）", "KCLBMC" : "必修", "KSXZMC" : "正常考试", "DQSZJ" : null, "DJFSMC" : "分数", "CJXS" : "60" }
+{ "_id" : ObjectId("5a07f119e81208d211d40a77"), "XH" : "02151042", "XM" : "张伟强", "KCBH" : "T55010001", "KCMC" : "高等数学(I)", "XQMC" : "2002-2003-1", "ZCJ" : 0, "ZXS" : 32, "XF" : 5, "BJMC" : "给排水031班", "KCXZMC" : "通识课（Ⅰ类）", "KCLBMC" : "必修", "KSXZMC" : "正常考试", "DQSZJ" : null, "DJFSMC" : "0", "CJXS" : "0" }
+{ "_id" : ObjectId("5a07f119e81208d211d40a78"), "XH" : "02151042", "XM" : "张伟强", "KCBH" : "H55030001", "KCMC" : "有机化学（Ⅰ）", "XQMC" : "2002-2003-1", "ZCJ" : 60, "ZXS" : 32, "XF" : 2, "BJMC" : "给排水031班", "KCXZMC" : "专业主干课", "KCLBMC" : "必修", "KSXZMC" : "正常考试", "DQSZJ" : null, "DJFSMC" : "分数", "CJXS" : "60" }
